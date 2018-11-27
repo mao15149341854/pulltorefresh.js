@@ -35,7 +35,7 @@
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-plugin-import": "^2.8.0",
     "less": "^3.8.1",
-    "live-server": "^1.2.0",
+    "live-server": "^1.2.1",
     "pug-cli": "^1.0.0-alpha6",
     "testcafe": "^0.22.0"
   }
